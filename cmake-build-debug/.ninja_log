@@ -1,0 +1,9 @@
+# ninja log v6
+17	600	7561707051335314	CMakeFiles/Banking.dir/BankAccount.cpp.obj	ad10b3ea4e4c90af
+11	707	7561707051277794	CMakeFiles/Banking.dir/BankSystem.cpp.obj	819ff94e5c5918fb
+15	550	7561707826172140	CMakeFiles/Banking.dir/main.cpp.obj	37bd8de0118f7255
+550	743	7561707831530135	Banking.exe	fc26ff541ca8054e
+6	611	7561708728835332	CMakeFiles/Banking.dir/BankSystem.cpp.obj	819ff94e5c5918fb
+612	717	7561708734899015	Banking.exe	fc26ff541ca8054e
+13	484	7561708867573310	CMakeFiles/Banking.dir/main.cpp.obj	37bd8de0118f7255
+485	595	7561708872296801	Banking.exe	fc26ff541ca8054e
